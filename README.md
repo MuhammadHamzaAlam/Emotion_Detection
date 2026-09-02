@@ -1,4 +1,6 @@
-# Emotion Detection Application
+# Final Project
+
+## Emotion Detection Application
 
 This project implements an AI-based Emotion Detection web application using Watson NLP.
 
